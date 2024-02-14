@@ -5,15 +5,25 @@ Email: joseamurillog92@gmail.com
 Phone: +52 (668)-236-1526
 
 💻 Technologies I Use:
+
 Web Development: HTML, CSS, JS, TS 🌐
+
 Frameworks/Libraries: Angular, React, React-Native, AngularJs 🔧
+
 Backend: Node.js, Express.js, NestJS 🛠
+
 Database: Firebase, MongoDB, PostgreSQL 🗃
+
 Testing: Cypress, Jest 🧪
+
 Design & Prototyping: Figma, Zeplin 🎨
+
 Project Management: ClickUp, Trello, Scrum 📋
+
 DevOps & Hosting: AWS, Firebase Hosting, Cloudflare ☁️
+
 SEO & Analytics: SEO, Google Analytics 📊
+
 Continuous Integration: Jenkins 🔄
 
 🏢 Work Experience:
